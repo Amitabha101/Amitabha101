@@ -1,4 +1,4 @@
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/613/22/414/anime-anime-girls-manga-computer-wallpaper-preview.jpg)]
+[![MasterHead](https://c4.wallpaperflare.com/wallpaper/406/979/698/amiga-retro-games-window-computer-wallpaper-preview.jpg)]
 <h1 align="center">Hi 👋, I'm Amitabha</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
